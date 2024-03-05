@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1700707578 source:d:\welli\faculdade\ed\trabalho ed\trabalhoed\trabalhoed\main.c
+	<stdlib.h>
+	<stdio.h>
+	"TADs/Pilha.h"
+	"TADs/Filas.h"
+
+1700704617 d:\welli\faculdade\ed\trabalho ed\trabalhoed\trabalhoed\tads\pilha.h
+
+1700707532 d:\welli\faculdade\ed\trabalho ed\trabalhoed\trabalhoed\tads\filas.h
+
+1700707533 source:d:\welli\faculdade\ed\trabalho ed\trabalhoed\trabalhoed\tads\filas.c
+	<stdlib.h>
+	<stdio.h>
+	"Filas.h"
+	"Pilha.h"
+
+1700707713 source:d:\welli\faculdade\ed\trabalho ed\trabalhoed\trabalhoed\tads\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Pilha.h"
+	"Filas.h"
+
+1700707997 source:d:\welli\faculdade\ed\trabalho ed\trabalhoed\trabalhoed\tads\menus.c
+	<stdlib.h>
+	<stdio.h>
+	"Filas.h"
+	"Pilha.h"
+	"Menus.h"
+
+1700707108 d:\welli\faculdade\ed\trabalho ed\trabalhoed\trabalhoed\tads\menus.h
+
+1700707998 source:d:\welli\faculdade\ed\trabalhoed\trabalhoed\tads\menus.c
+	<stdlib.h>
+	<stdio.h>
+	"Filas.h"
+	"Pilha.h"
+	"Menus.h"
+
+1700938128 d:\welli\faculdade\ed\trabalhoed\trabalhoed\tads\filas.h
+
+1700939764 d:\welli\faculdade\ed\trabalhoed\trabalhoed\tads\pilha.h
+
+1700938128 d:\welli\faculdade\ed\trabalhoed\trabalhoed\tads\menus.h
+
+1700707714 source:d:\welli\faculdade\ed\trabalhoed\trabalhoed\tads\pilha.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"Pilha.h"
+	"Filas.h"
+
+1700766592 source:d:\welli\faculdade\ed\trabalhoed\trabalhoed\main.c
+	<stdlib.h>
+	<stdio.h>
+	"TADs/Pilha.h"
+	"TADs/Filas.h"
+	"TADs/Menus.h"
+
+1700939093 source:d:\welli\faculdade\ed\trabalhoed\trabalhoed\tads\filas.c
+	<stdlib.h>
+	<stdio.h>
+	"Filas.h"
+	"Pilha.h"
+
