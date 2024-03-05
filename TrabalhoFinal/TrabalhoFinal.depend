@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1688861120 source:d:\welli\faculdade\fup\trabalho final\trabalhofinal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
